@@ -1,0 +1,604 @@
+<!--------------------------------------------------------------->
+<!--
+Code by Queperly, Licensed under GNU General Public License v3.0
+
+!!!! TURN OFF WYSIWYG ON TOYHOUSE !!!!
+!!!! SWITCH TO CODE VIEW ON ARTFIGHT !!!!
+
+PRIMARY:    #405944
+SECONDARY:  #75846D
+TERTIARY:   #E5E4D7
+-->
+<!--------------------------------------------------------------->
+
+<div class = "container col-10"><div class="row no-gutters" style = "background-color:#75846D; border-radius:15px; font-family: Lucida Bright, monospace; color:#405944">
+
+<!--COLUMN 1------------------------------------------------------------->
+<div class = "col-sm-5 pl-3 pr-3 text-center">
+
+<!--Title-->
+<div class = "my-2 row no-gutters align-items-center" style = "color:#E5E4D7;">
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-left"></i></div><div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1"><i>
+title
+</i></div>
+<div class = "col" style="border-bottom:solid 1px"></div><div class = "col-sm-1 col-1"><i class="fad fa-quote-right"></i></div>
+</div>
+
+<!--Character Image-->
+<div class = "justify-content-center">
+<img src ="https://f2.toyhou.se/file/f2-toyhou-se/images/78115167_9n4VUTojrLuhPTf.jpg" style = "max-height:300px; border-radius:15px">
+</div>
+
+<!--Character Name-->
+<div class = "p-2 mt-2" style = "background-color:#405944; color:#E5E4D7">
+<div class = "px-1" style = "border-left:solid 15px;border-right:solid 15px;">
+<div style = "border-left:solid 8px;border-right:solid 8px;">
+<div class = "col-auto p-1 row no-gutters align-items-center justify-content-between" style = "font-size:1.7em">
+<div class = "col-sm-1 col-1">●</div>
+<div class = "col-auto mx-1" style = "letter-spacing:4px">
+NAME
+</div>
+<div class = "col-sm-1 col-1">●</div>
+</div></div></div></div>
+
+</div>
+<!--COLUMN 1------------------------------------------------------------->
+
+<!--COLUMN 2------------------------------------------------------------->
+<div class = "col p-3">
+
+<div class = "row no-gutters" style = "border-radius:15px;">
+
+<!--Tabs-->
+<div class = "col-lg-1 pt-3 pb-2" style = "max-height:340px;">
+
+<ul class="nav h-100 w-100 flex-lg-column flex-row row no-gutters" >
+<li class="nav-item flex-grow-1 p-1"><a href="#user_one" data-toggle="tab" class="nav-link  border-0 p-3 h-100 d-flex" style="border-radius:7px; background-color:#405944;color:#E5E4D7"><i class="fas fa-heart fa-fw m-auto fa-lg"></i></a>
+</li>
+
+<li class="nav-item flex-grow-1 p-1"><a href="#user_two" data-toggle="tab" class="nav-link  border-0 p-3 h-100 d-flex" style="border-radius:7px; background-color:#405944;color:#E5E4D7"><i class="fas fa-user fa-fw m-auto fa-lg"></i></a>
+</li>
+
+<li class="nav-item flex-grow-1 p-1"><a href="#user_three" data-toggle="tab" class="nav-link  border-0 p-3 h-100 d-flex" style="border-radius:7px; background-color:#405944;color:#E5E4D7"><i class="fas fa-books fa-fw m-auto fa-lg"></i></a>
+</li>
+
+<li class="nav-item flex-grow-1 p-1"><a href="#user_four" data-toggle="tab" class="nav-link  border-0 p-3 h-100 d-flex" style="border-radius:7px; background-color:#405944;color:#E5E4D7"><i class="fas fa-link fa-fw m-auto fa-lg"></i></a>
+</li>
+
+<li class="nav-item flex-grow-1 p-1"><a href="#user_five" data-toggle="tab" class="nav-link  border-0 p-3 h-100 d-flex" style="border-radius:7px; background-color:#405944;color:#E5E4D7"><i class="fas fa-pen-paintbrush fa-fw m-auto fa-lg"></i></a>
+</li>
+</ul>
+</div>
+
+<!--Col 2:-->
+<div class = "col">
+
+<!--TAB CONTENT-->
+<div class = "tab-content" style = "height:370px;max-height:350px;background-color:#E5E4D7;border-radius:15px">
+
+<!--TAB 1------------------------------------------------------>
+<div class = "tab-pane fade p-2 overflow-auto active show" id="user_one" style = "height:370px;max-height:350px;scrollbar-width:thin">
+
+<!--Quote-->
+<div class = "col-auto p-1 text-center row no-gutters align-items-center" style = "border-top:solid 10px;border-bottom:solid 10px; font-size:1.2em">
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-left"></i></div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:.8em;">
+<i>snappy quote</i>
+</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-right"></i></div>
+</div>
+
+<!--Quick Info Box-->
+<!--You can add more info if you'd like-->
+<div class = "row no-gutters my-1" style = "font-size:1.1em; border-top:solid 3px; border-bottom:solid 3px">
+
+<!--Info Column One-->
+<div class = "col-lg-6 px-1 pt-1">
+<!--One-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>AGE</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Two-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>PRONOUNS</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Three-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>SPECIES</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Four-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>HEIGHT</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+</div>
+
+<!--Info Column Two-->
+<div class = "col px-1 pt-1">
+<!--One-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>BIRTHDAY</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Two-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>ORIENTATION</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Three-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>OCCUPATION</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+<!--Four-->
+<div class = "row no-gutters mb-1" style = "color:#75846D">
+<div class = "col-auto pl-1" style = "border-left:solid 9px #405944;"><span style = "color:#405944" class="pr-1">●</span><b>MBTI</b></div>
+<div class = "col mb-1 mx-1" style="border-bottom:dotted 3px"></div><div class = "col-auto text-left">answer</div>
+</div>
+</div></div>
+
+<!--Short Character Description-->
+<!--Change height and max-height for more scroll space-->
+<div class = "row no-gutters">
+<div class = "col-lg-8 p-2 overflow-auto" style = "height:148px;max-height:148px;scrollbar-width:thin;">
+insert a lotta text
+</div>
+
+<!--Fun Facts-->
+<!--Add more fun facts if you'd like-->
+<div class = "col text-left"><div class = "mx-1 mt-1 p-1" style="background-color:#75846D">
+<div class = "pl-1" style="border-left:solid 9px #E5E4D7;color:#E5E4D7">Fun Facts</div></div>
+<ul>
+<li>fact</li>
+<li>fact</li>
+<li>fact</li>
+</ul>
+</div>
+</div>
+</div>
+<!--TAB 1------------------------------------------------------>
+
+<!--TAB 2------------------------------------------------------>
+<div class = "tab-pane fade p-2 overflow-auto" id="user_two" style = "height:370px;max-height:350px;scrollbar-width:thin">
+
+<!--Page Title-->
+<div class = "px-1 my-1" style = "border-left:solid 10px #405944; border-right:solid 10px #405944;"><div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D; font-size:0.8em;">
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:1.8em;">PERSONALITY
+</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div></div></div>
+<div class = "mt-1" style="border-bottom:solid 5px;"></div>
+<div class = "my-1" style="border-bottom:solid 2px;"></div>
+
+<div class = "row no-gutters">
+<div class = "col-lg-7">
+
+<!--Personality Description-->
+<!--Change height and max-height for more scroll space-->
+<div class = "p-1" style = "height:165px;max-height:165px; overflow:auto; scrollbar-width:thin;"> lotta text </div>
+
+<!--Likes + Dislikes-->
+<!--try to keep likes and dislikes at a maximum of 4-->
+<div class = "row no-gutters pt-1">
+
+<!--Likes-->
+<div class = "col-lg-6 row no-gutters">
+<div class = "col-auto p-2" style = "background-color:#405944; color:#E5E4D7"><i class="fa-solid fa-heart"></i></div>
+<div class = "col ml-1" style = "border-left:solid 5px #405944">
+<div class="mx-1 p-1" style = "background-color:#75846D; color:#E5E4D7"><b>Likes</b></div>
+<div style = "font-size:0.9em">
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+</div></div></div>
+
+<!--Dislikes-->
+<div class = "col row no-gutters">
+<div class = "col-auto p-2 text-center" style = "background-color:#405944; color:#E5E4D7"><i class="fa-solid fa-x"></i><br><span style = "color:#405944"><i class="fa-solid fa-heart"></i></span></div>
+<div class = "col ml-1" style = "border-left:solid 5px #405944">
+<div class="mx-1 p-1" style = "background-color:#75846D; color:#E5E4D7"><b>Dislikes</b></div>
+<div style = "font-size:0.9em">
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+<span class = "px-2">●</span>text<br>
+</div></div></div>    
+</div>
+</div>
+
+<div class = "col">
+<!--Trait Box-->
+<!--you can add as many traits as you want because this scrolls-->
+<div class = "text-center p-2 overflow-auto" style = "max-height:115px;height:115px">
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+<!--Trait-->
+<div class = "p-1 btn mt-1" style = "background-color:#405944; border-radius:5px;color:#E5E4D7"> trait </div>
+</div>
+
+<!--Slider Box-->
+<!--These are multicolored sliders, so change both percentages to equal 100 -->
+<div class="p-2 m-1" style = "background-color:#75846D; border-radius:7px;font-style:italic; font-size:0.7em; color:#E5E4D7">
+
+<!--Trait One-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Charisma</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+<!--Trait Two-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Intelligence</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+<!--Trait Three-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Wisdom</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+<!--Trait Four-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Honesty</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+<!--Trait Five-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Kindness</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+<!--Trait Six-->
+<div class = "row no-gutters"><div class = "col-auto">●</div>
+<div class = "col-auto mx-1">Humour</div>
+<div class = "col mb-1" style="border-bottom:dashed 1px;"></div>
+<div class = "col-auto ml-1">●</div></div>
+<!--Trait Slider-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+
+</div>
+</div></div></div>
+<!--TAB 2------------------------------------------------------>
+
+<!--TAB 3------------------------------------------------------>
+<div class = "tab-pane fade p-2 overflow-auto" id="user_three" style = "height:370px;max-height:350px;scrollbar-width:thin">
+
+<!--Page Title-->
+<div class = "px-1 my-1" style = "border-left:solid 10px #405944; border-right:solid 10px #405944;"><div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D; font-size:0.8em;">
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:1.8em;">LORE</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+</div></div>
+<div class = "mt-1" style="border-bottom:solid 5px;"></div>
+<div class = "my-1" style="border-bottom:solid 2px;"></div>
+
+<!--Repeat Subheader/Text Body/Quotes as much as needed-->
+
+<!--Subheader-->
+<div class = "px-2 py-1 row no-gutters justify-content-between" style = "background-color:#405944;color:#E5E4D7;border-radius:10px; max-width:70%">
+<div>SUBHEADER</div>
+<div><i class="fa-solid fa-bookmark"></i></div>
+</div>
+
+<!--Text Body-->
+<div class = "p-2">
+insert a lotta text
+</div>
+
+<!--Quote-->
+<div class = "col-auto px-1 text-center row no-gutters align-items-center"><div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-left"></i></div>
+<div class = "col-auto mx-1" style = "font-size:.8em;"><i>
+snappy quote
+</i></div>
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-right"></i></div>    </div>
+
+<!--Subheader-->
+<div class = "px-2 py-1 row no-gutters justify-content-between" style = "background-color:#405944;color:#E5E4D7;border-radius:10px; max-width:70%">
+<div>SUBHEADER</div>
+<div><i class="fa-solid fa-bookmark"></i></div>
+</div>
+
+<!--Text Body-->
+<div class = "p-2">
+insert a lotta text
+</div>
+
+<!--Quote-->
+<div class = "col-auto px-1 text-center row no-gutters align-items-center"><div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-left"></i></div>
+<div class = "col-auto mx-1" style = "font-size:.8em;"><i>
+snappy quote
+</i></div>
+<div class = "col-sm-1 col-1"><i class="fad fa-quote-right"></i></div>    </div>
+
+</div>
+<!--TAB 3------------------------------------------------------>
+
+<!--TAB 4------------------------------------------------------>
+<div class = "tab-pane fade p-2 overflow-auto" id="user_four" style = "height:370px;max-height:350px;scrollbar-width:thin">
+
+<!--Page Title-->
+<div class = "px-1 my-1" style = "border-left:solid 10px #405944; border-right:solid 10px #405944;"><div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D; font-size:0.8em;">
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:1.8em;">LINKS</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div></div></div>
+<div class = "mt-1" style="border-bottom:solid 5px;"></div>
+<div class = "my-1" style="border-bottom:solid 2px;"></div>
+
+<!--Character Left-->
+<div class = "row no-gutters px-2 py-2">
+<div class = "col-12 col-sm-3 text-center">
+<!--Link To Character-->
+<a href = "LINK">
+<!--Image-->
+<img src ="https://f2.toyhou.se/file/f2-toyhou-se/images/78115167_9n4VUTojrLuhPTf.jpg" style = "max-height:100px; border-radius:15px"></a>
+</div>
+
+<!--Body-->
+<div class = "col-12 col-lg-9" style = "border-left:solid 10px #405944;">
+<div class = "px-1" style = "border-right:solid 10px #405944;">
+<div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D;">
+
+<!--Name and Status-->
+<div class = "col-sm-1 col-1">●</div>
+<div class = "col-auto mr-1">NAME</div>
+<div class = "col" style="border-bottom:dashed 1px #75846D; margin-top:2px;"></div>
+<div class = "col-auto ml-1" style = "font-size:.8em;">Status</div>
+<div class = "col-sm-1 col-1">●</div>
+</div>
+</div>
+
+<div class = "ml-1" style= "border-bottom:solid 2px #75846D; margin-top:2px;"></div><div class = "row no-gutters p-1" style = "font-size:0.8em">
+<!--Description-->
+<div class = "col" style = "height:65px;max-height:65px; overflow:auto; scrollbar-width:thin;">
+insert a lotta text
+</div>
+
+<!--Rank Box-->
+<div class = "col-5 px-1 py-2" style = "background-color:#75846D; color:#E5E4D7; border-radius:5px;">
+
+<!--Respect-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Respect</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+
+<!--Trust-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Trust</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+
+<!--Affection-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Affection</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<!--Character Left-->
+<div class = "row no-gutters px-2 py-2">
+
+<!--Body-->
+<div class = "col-12 col-lg-9" style = "border-left:solid 10px #405944;">
+<div class = "px-1" style = "border-right:solid 10px #405944;">
+<div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D;">
+
+<!--Name and Status-->
+<div class = "col-sm-1 col-1">●</div>
+<div class = "col-auto mr-1">NAME</div>
+<div class = "col" style="border-bottom:dashed 1px #75846D; margin-top:2px;"></div>
+<div class = "col-auto ml-1" style = "font-size:.8em;">Status</div>
+<div class = "col-sm-1 col-1">●</div>
+</div>
+</div>
+
+<div class = "ml-1" style= "border-bottom:solid 2px #75846D; margin-top:2px;"></div><div class = "row no-gutters p-1" style = "font-size:0.8em">
+<!--Description-->
+<div class = "col" style = "height:65px;max-height:65px; overflow:auto; scrollbar-width:thin;">
+insert a lotta text
+</div>
+
+<!--Rank Box-->
+<div class = "col-5 px-1 py-2" style = "background-color:#75846D; color:#E5E4D7; border-radius:5px;">
+
+<!--Respect-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Respect</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+
+<!--Trust-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Trust</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+
+<!--Affection-->
+<div class = "row no-gutters align-items-center">
+<div class = "col-12 col-lg-5">Affection</div>
+<div class = "col p-1">
+<!--Multicolor Slider, adjust both percentages to equal 100-->
+<div class="progress" style= "height:8px"><div class="progress-bar" style="width:50%;background-color:#405944;"><br></div><div class="progress-bar" style="width:50%;background-color:#E5E4D7;"></div></div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+<div class = "col-12 col-sm-3 text-center">
+<!--Link To Character-->
+<a href = "LINK">
+<!--Image-->
+<img src ="https://f2.toyhou.se/file/f2-toyhou-se/images/78115167_9n4VUTojrLuhPTf.jpg" style = "max-height:100px; border-radius:15px"></a>
+</div>
+</div>
+
+</div>
+<!--TAB 4------------------------------------------------------>
+
+<!--TAB 5------------------------------------------------------>
+<div class = "tab-pane fade p-2 overflow-auto" id="user_five" style = "height:370px;max-height:350px;scrollbar-width:thin">
+
+<!--Page Title-->
+<div class = "px-1 my-1" style = "border-left:solid 10px #405944; border-right:solid 10px #405944;"><div class = "text-center row no-gutters align-items-center" style = "border-left:solid 5px #75846D; border-right:solid 5px #75846D; font-size:0.8em;">
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:1.8em;">DESIGN NOTES
+</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1"><i class="fas fa-circle"></i></div>
+</div></div>
+<div class = "mt-1" style="border-bottom:solid 5px;"></div>
+<div class = "my-1" style="border-bottom:solid 2px;"></div>
+
+<div class = "row no-gutters justify-content-center">
+<div class = "col-10 p-2 my-1 text-center row no-gutters align-items-center" style = "font-size:1.2em; background-color:#75846D;border-radius:5px;color:#E5E4D7">
+
+<!--Subheader-->
+<div class = "col-sm-1 col-1 mx-">●</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-auto mx-1" style = "font-size:.8em;">
+SUBHEADER
+</div>
+<div class = "col" style="border-bottom:solid 1px"></div>
+<div class = "col-sm-1 col-1">●</div>
+</div>
+</div>
+
+<!--Notes Left-->
+<div class = "row no-gutters px-1 py-1">
+<!--Image-->
+<div class = "col-12 col-sm-3 text-center">
+<img src ="https://f2.toyhou.se/file/f2-toyhou-se/images/78115167_9n4VUTojrLuhPTf.jpg" style = "max-height:100px; border-radius:15px">
+</div>
+
+<!--Body-->
+<div class = "col-12 col-lg-9" style = "border-left:solid 10px #405944;">
+<div class = "text-center row no-gutters align-items-center ml-1" style = "border-left:solid 5px #75846D"><div class = "col-auto px-1">●</div><div class = "col-auto mx-1">
+Notes
+</div>
+</div>
+<div class = "ml-1" style= "border-bottom:solid 2px #75846D; margin-top:2px;"></div>
+
+<!--Notes-->
+<div class = "p-1" style = "font-size:0.8em;height:75px;max-height:75px; overflow:auto; scrollbar-width:thin;">
+insert a lotta text
+</div>
+</div>
+</div>
+
+<!--Notes Right-->
+<div class = "row no-gutters px-1 py-1">
+<!--Body-->
+<div class = "col-12 col-lg-9" style = "border-left:solid 10px #405944;">
+<div class = "text-center row no-gutters align-items-center ml-1" style = "border-left:solid 5px #75846D;"><div class = "col-auto px-1">●</div><div class = "col-auto mx-1">
+Notes
+</div>
+</div>
+<div class = "ml-1" style= "border-bottom:solid 2px #75846D; margin-top:2px;"></div>
+
+<!--Notes-->
+<div class = "p-1" style = "font-size:0.8em;height:75px;max-height:75px; overflow:auto; scrollbar-width:thin;">
+insert a lotta text
+</div>
+</div>
+
+<!--Image-->
+<div class = "col-12 col-sm-3 text-center">
+<img src ="https://f2.toyhou.se/file/f2-toyhou-se/images/78115167_9n4VUTojrLuhPTf.jpg" style = "max-height:100px; border-radius:15px">
+</div>
+</div>
+</div>
+<!--TAB 5------------------------------------------------------>
+
+</div>
+<!--TAB CONTENT-->
+
+<!--Color Bar-->
+<!-- Try to limit colors to 4--!>
+<div class = "mt-2 row no-gutters justify-content-center" style = "height:35px;max-height:35px;color:#E5E4D7;">
+
+<!--Color-->
+<div class = "col p-2 ml-1 align-items-center text-center justify-content-center" style = "border-radius:5px;background-color:#405944;"><i class="fa-solid fa-heart"></i>
+</div>
+<!--Color-->
+<div class = "col p-2 ml-1 align-items-center text-center justify-content-center" style = "border-radius:5px;background-color:#405944;"><i class="fa-solid fa-heart"></i>
+</div>
+<!--Color-->
+<div class = "col p-2 ml-1 align-items-center text-center justify-content-center" style = "border-radius:5px;background-color:#405944;"><i class="fa-solid fa-heart"></i>
+</div>
+<!--Color-->
+<div class = "col p-2 ml-1 align-items-center text-center justify-content-center" style = "border-radius:5px;background-color:#405944;"><i class="fa-solid fa-heart"></i>
+</div>
+
+<!--Credit-->
+<a href="https://toyhou.se/Queperly" style="color:#E5E4D7;"> 
+<div class = "p-2 ml-1 align-items-center text-center justify-content-center" style = "border-radius:5px;background-color:#405944;"><span data-toggle="tooltip" title="" data-original-title="Code by Queperly"> <i class="fa-solid fa-code"></i> </span>
+</div></a>
+</div>
+</div>
+
+</div>
+</div>
+<!--COLUMN 2------------------------------------------------------------>
+</div></div>
